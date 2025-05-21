@@ -1,8 +1,11 @@
-*, *::before, *::after {
+*,
+*::before,
+*::after {
     box-sizing: border-box;
 }
 
-h1, .desc {
+h1,
+.desc {
     text-align: center;
 }
 
