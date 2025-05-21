@@ -1,0 +1,13 @@
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+
+h1, .desc {
+    text-align: center;
+}
+
+img {
+    display: block;
+    height: 500px;
+    margin: 0 auto;
+}
